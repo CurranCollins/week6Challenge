@@ -9,5 +9,6 @@ I started this project thinking I had a good grasp on APIs and Bootstrap so that
 ## Usage
 
 Active Webpage Link:
+https://currancollins.github.io/week6Challenge/
 
-![Webpage Image](images/Screenshot.png)
+![Webpage Image](Assets/images/Screenshot.png)
